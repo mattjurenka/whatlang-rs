@@ -1,0 +1,6 @@
+project: whatlang-rs
+target: detect
+duration: 90
+
+cmds:
+    - cmd: /detect
